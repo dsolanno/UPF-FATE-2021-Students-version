@@ -2,7 +2,7 @@
 ## Repository for students
 
 
-Instructor: [David Solans] (https://twitter.com/SolansDavid)
+Instructor: [David Solans](https://twitter.com/SolansDavid)
 
 These are materials for an undergraduate course on Fairness, Accountability, Transparency and Ethics (FATE).
 
