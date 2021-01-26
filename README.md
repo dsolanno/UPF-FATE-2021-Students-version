@@ -1,2 +1,19 @@
-# UPF-FATE-2021---Students
-Repository containing the notebooks to be filled and submitted by the students in the subject of Fairness, Accountability, Transparency and Ethics (FATE) at UPF.
+# UPF-FATE-2021
+## Repository for students
+
+
+Instructor: [David Solans] (https://twitter.com/SolansDavid)
+
+These are materials for an undergraduate course on Fairness, Accountability, Transparency and Ethics (FATE).
+
+They were developed for fourth year students of the bachelor degree on *Data Science* at Universitat Pompeu Fabra, Barcelona.
+
+
+
+## Contents of this repository
+
+:construction: These materials should not be considered final until the end of the course.
+
+* :computer: **Notebooks**: Activities for practical sessions.
+* :file_folder: **Data**: To be used during practical sessions.
+* :pencil: **Helper scripts**: Helpful scripts for automatizing different things 
